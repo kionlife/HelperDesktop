@@ -1,0 +1,170 @@
+CRITICAL - 2020-07-23 01:42:08 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 01:43:22 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 01:43:42 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 01:45:13 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 01:47:12 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 01:49:08 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 01:49:17 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 01:49:49 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 01:49:52 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 01:49:54 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 01:50:01 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 01:50:09 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 01:50:32 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 01:51:33 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 02:50:02 --> syntax error, unexpected 'var_dump' (T_STRING)
+#0 C:\OSPanel\OpenServer\domains\helper\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('settings/get_se...')
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('settings/get_se...')
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-23 02:50:04 --> syntax error, unexpected 'var_dump' (T_STRING)
+#0 C:\OSPanel\OpenServer\domains\helper\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('settings/get_se...')
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('settings/get_se...')
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-23 02:50:22 --> syntax error, unexpected 'var_dump' (T_STRING)
+#0 C:\OSPanel\OpenServer\domains\helper\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('settings/get_se...')
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('settings/get_se...')
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-23 02:55:28 --> Call to undefined function App\Controllers\is_auth()
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Settings->desktop()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-23 02:56:20 --> Call to undefined function App\Controllers\is_auth()
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Settings->desktop()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-23 03:24:00 --> Cannot redeclare App\Controllers\Settings::is_auth()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 03:25:49 --> Cannot redeclare App\Controllers\Settings::is_auth()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-23 03:38:43 --> Use of undefined constant user_problems - assumed 'user_problems' (this will throw an Error in a future version of PHP)
+#0 C:\OSPanel\OpenServer\domains\helper\app\Views\settings\desktop.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\OSPanel\\Open...', 38, Array)
+#1 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include('C:\\OSPanel\\Open...')
+#2 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('settings/deskto...', Array, true)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Settings.php(87): view('settings/deskto...', Array)
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Settings->desktop()
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-23 06:41:56 --> array_diff(): Argument #1 is not an array
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_diff(): A...', 'C:\\OSPanel\\Open...', 94, Array)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Settings.php(94): array_diff('["\xD0\x9F\xD1\x80\xD0\xBE\xD0\xB1\xD0\xBB\xD0\xB5\xD0...', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Settings->desktop()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-23 06:43:54 --> array_diff(): at least 2 parameters are required, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_diff(): a...', 'C:\\OSPanel\\Open...', 93, Array)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Settings.php(93): array_diff('["\xD0\x9F\xD1\x80\xD0\xBE\xD0\xB1\xD0\xBB\xD0\xB5\xD0...')
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Settings->desktop()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-23 06:44:27 --> array_diff(): at least 2 parameters are required, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_diff(): a...', 'C:\\OSPanel\\Open...', 93, Array)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Settings.php(93): array_diff('["\xD0\x9F\xD1\x80\xD0\xBE\xD0\xB1\xD0\xBB\xD0\xB5\xD0...')
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Settings->desktop()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-23 06:45:50 --> array_diff(): at least 2 parameters are required, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_diff(): a...', 'C:\\OSPanel\\Open...', 93, Array)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Settings.php(93): array_diff(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Settings->desktop()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-23 06:45:59 --> array_diff(): at least 2 parameters are required, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_diff(): a...', 'C:\\OSPanel\\Open...', 93, Array)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Settings.php(93): array_diff(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Settings->desktop()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-23 07:59:18 --> Invalid argument supplied for foreach()
+#0 C:\OSPanel\OpenServer\domains\helper\app\Views\settings\desktop.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\OSPanel\\Open...', 37, Array)
+#1 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include('C:\\OSPanel\\Open...')
+#2 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('settings/deskto...', Array, true)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Settings.php(30): view('settings/deskto...', Array)
+#4 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Settings.php(13): App\Controllers\Settings->is_auth('settings/deskto...')
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Settings->index()
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#7 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-07-23 09:16:19 --> Invalid file: settings/users.php
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('settings/users....')
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('settings/users', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Settings.php(111): view('settings/users', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Settings->users()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-23 09:16:39 --> Invalid file: settings/users.php
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('settings/users....')
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('settings/users', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Settings.php(109): view('settings/users', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Settings->users()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-23 09:20:47 --> Invalid argument supplied for foreach()
+#0 C:\OSPanel\OpenServer\domains\helper\app\Views\settings\users.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\OSPanel\\Open...', 39, Array)
+#1 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include('C:\\OSPanel\\Open...')
+#2 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('settings/users', Array, true)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Settings.php(109): view('settings/users', Array)
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Settings->users()
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Settings))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

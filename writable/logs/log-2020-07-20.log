@@ -1,0 +1,491 @@
+CRITICAL - 2020-07-20 06:12:32 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::data_seek()
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 06:12:58 --> Argument 2 passed to view() must be of the type array, integer given, called in C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php on line 10
+#0 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(10): view('main', 1)
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-20 06:13:06 --> Argument 2 passed to view() must be of the type array, null given, called in C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php on line 8
+#0 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(8): view('main', NULL)
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-20 06:13:41 --> Argument 2 passed to view() must be of the type array, null given, called in C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php on line 8
+#0 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(8): view('main', NULL)
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-20 06:14:05 --> Argument 2 passed to view() must be of the type array, integer given, called in C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php on line 9
+#0 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(9): view('main', 0)
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-20 06:14:06 --> Argument 2 passed to view() must be of the type array, integer given, called in C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php on line 9
+#0 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(9): view('main', 0)
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-20 06:17:24 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::data_seek()
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 06:17:25 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::data_seek()
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 06:17:27 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::data_seek()
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 06:17:42 --> Argument 2 passed to view() must be of the type array, object given, called in C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php on line 9
+#0 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(9): view('main', Object(CodeIgniter\Database\MySQLi\Result))
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-20 06:17:43 --> Argument 2 passed to view() must be of the type array, object given, called in C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php on line 9
+#0 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(9): view('main', Object(CodeIgniter\Database\MySQLi\Result))
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-20 06:22:16 --> Call to a member function view() on null
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 06:22:59 --> Call to a member function view() on null
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 06:23:11 --> Call to a member function view() on null
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 06:23:18 --> Call to a member function view() on null
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 06:23:19 --> Call to a member function view() on null
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 06:26:32 --> Call to a member function view() on null
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 06:35:01 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 06:35:11 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 06:59:53 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:00:04 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:00:05 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:00:32 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:00:33 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:00:47 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:00:48 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:00:49 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:00:57 --> Argument 2 passed to view() must be of the type array, null given, called in C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php on line 9
+#0 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(9): view('main', NULL)
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-20 07:00:58 --> Argument 2 passed to view() must be of the type array, null given, called in C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php on line 9
+#0 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(9): view('main', NULL)
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-20 07:00:58 --> Argument 2 passed to view() must be of the type array, null given, called in C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php on line 9
+#0 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(9): view('main', NULL)
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-20 07:01:54 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:02:06 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:02:07 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:02:12 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:04:03 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:04:10 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:10:53 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:13:46 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:13:47 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:22:57 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:23:54 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:23:55 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:23:55 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:23:55 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:23:55 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:23:56 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:24:23 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:24:24 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:25:21 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:25:32 --> Class 'App\Controllers\TicketModel' not found
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:47:59 --> Allowed fields must be specified for model: App\Models\TicketModel
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(1265): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Tick...')
+#1 C:\OSPanel\OpenServer\domains\helper\system\Model.php(870): CodeIgniter\Model->doProtectFields(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(21): CodeIgniter\Model->update(Array, Array)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(25): App\Models\TicketModel->changeStatus('2', Object(App\Models\TicketModel))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus('2')
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-20 07:48:38 --> Allowed fields must be specified for model: App\Models\TicketModel
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(1265): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Tick...')
+#1 C:\OSPanel\OpenServer\domains\helper\system\Model.php(870): CodeIgniter\Model->doProtectFields(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(21): CodeIgniter\Model->update(Array, Array)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus(2, Object(App\Models\TicketModel))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus('2')
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-20 07:49:22 --> Allowed fields must be specified for model: App\Models\TicketModel
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(1265): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Tick...')
+#1 C:\OSPanel\OpenServer\domains\helper\system\Model.php(870): CodeIgniter\Model->doProtectFields(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(21): CodeIgniter\Model->update(Array, Array)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus(2, Object(App\Models\TicketModel))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus('2')
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-20 07:50:12 --> Allowed fields must be specified for model: App\Models\TicketModel
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(1265): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Tick...')
+#1 C:\OSPanel\OpenServer\domains\helper\system\Model.php(870): CodeIgniter\Model->doProtectFields(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(21): CodeIgniter\Model->update(Array, Array)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus('2')
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-20 07:50:14 --> Allowed fields must be specified for model: App\Models\TicketModel
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(1265): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Tick...')
+#1 C:\OSPanel\OpenServer\domains\helper\system\Model.php(870): CodeIgniter\Model->doProtectFields(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(21): CodeIgniter\Model->update(Array, Array)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus('2')
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-20 07:50:15 --> Allowed fields must be specified for model: App\Models\TicketModel
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(1265): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Tick...')
+#1 C:\OSPanel\OpenServer\domains\helper\system\Model.php(870): CodeIgniter\Model->doProtectFields(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(21): CodeIgniter\Model->update(Array, Array)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus('2')
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-20 07:50:22 --> Allowed fields must be specified for model: App\Models\TicketModel
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(1265): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Tick...')
+#1 C:\OSPanel\OpenServer\domains\helper\system\Model.php(870): CodeIgniter\Model->doProtectFields(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(21): CodeIgniter\Model->update(Array, Array)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-20 07:50:58 --> Allowed fields must be specified for model: App\Models\TicketModel
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(1265): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Tick...')
+#1 C:\OSPanel\OpenServer\domains\helper\system\Model.php(870): CodeIgniter\Model->doProtectFields(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(21): CodeIgniter\Model->update(Array, Array)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-20 07:53:50 --> Allowed fields must be specified for model: App\Models\TicketModel
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(1265): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Tick...')
+#1 C:\OSPanel\OpenServer\domains\helper\system\Model.php(870): CodeIgniter\Model->doProtectFields(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(22): CodeIgniter\Model->update(Array, Array)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-20 07:54:01 --> Allowed fields must be specified for model: App\Models\TicketModel
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(1265): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Tick...')
+#1 C:\OSPanel\OpenServer\domains\helper\system\Model.php(870): CodeIgniter\Model->doProtectFields(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(22): CodeIgniter\Model->update(Array, Array)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-20 07:54:21 --> There is no data to update.
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(834): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(22): CodeIgniter\Model->update(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-20 07:54:22 --> There is no data to update.
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(834): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(22): CodeIgniter\Model->update(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-20 07:54:23 --> There is no data to update.
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(834): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(22): CodeIgniter\Model->update(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-20 07:54:23 --> There is no data to update.
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(834): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(22): CodeIgniter\Model->update(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-20 07:57:01 --> Call to a member function update() on null
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:57:02 --> Call to a member function update() on null
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:57:03 --> Call to a member function update() on null
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:57:04 --> Call to a member function update() on null
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 07:59:17 --> There is no data to update.
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(834): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\OSPanel\OpenServer\domains\helper\app\Models\TicketModel.php(22): CodeIgniter\Model->update(Array)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(26): App\Models\TicketModel->changeStatus()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-20 08:15:34 --> Too few arguments to function App\Controllers\Home::changeStatus(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-20 08:15:35 --> Too few arguments to function App\Controllers\Home::changeStatus(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->changeStatus()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

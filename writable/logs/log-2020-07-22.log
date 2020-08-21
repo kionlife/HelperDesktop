@@ -1,0 +1,684 @@
+CRITICAL - 2020-07-22 02:15:17 --> syntax error, unexpected '{'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(55): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 04:42:34 --> syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(55): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 05:34:29 --> syntax error, unexpected 'status' (T_STRING), expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(55): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 05:34:32 --> syntax error, unexpected 'status' (T_STRING), expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(55): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 05:34:34 --> syntax error, unexpected 'status' (T_STRING), expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(55): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 05:34:37 --> syntax error, unexpected 'status' (T_STRING), expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(55): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 05:34:39 --> syntax error, unexpected 'status' (T_STRING), expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(55): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 05:34:42 --> syntax error, unexpected 'status' (T_STRING), expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(55): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 05:34:44 --> syntax error, unexpected 'status' (T_STRING), expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(55): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 05:46:19 --> syntax error, unexpected ';', expecting ']'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('home/get')
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('home/get')
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 06:07:34 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(57): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 06:07:34 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(57): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 06:07:39 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(57): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 06:07:39 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(57): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 06:07:44 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(57): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 06:07:44 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(57): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 06:07:49 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(57): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 06:07:49 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Home.php(57): view('ticket', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Home->get()
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 07:32:12 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:32:17 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:32:22 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:32:27 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:32:32 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:32:37 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:32:42 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:32:47 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:32:52 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:32:57 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:33:02 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:33:07 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:33:12 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:33:17 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:33:22 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:33:27 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:33:28 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:33:33 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:33:34 --> Too few arguments to function App\Controllers\Tickets::getByStatus(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 07:33:43 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:36:47 --> Invalid argument supplied for foreach()
+#0 C:\OSPanel\OpenServer\domains\helper\app\Views\ticket.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\OSPanel\\Open...', 1, Array)
+#1 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include('C:\\OSPanel\\Open...')
+#2 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-22 07:43:46 --> Invalid argument supplied for foreach()
+#0 C:\OSPanel\OpenServer\domains\helper\app\Views\ticket.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\OSPanel\\Open...', 1, Array)
+#1 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include('C:\\OSPanel\\Open...')
+#2 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#3 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#6 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-07-22 07:44:12 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:44:14 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:44:14 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:44:14 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:49:04 --> Cannot use object of type mysqli as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 07:56:41 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::get() must be of the type integer or null, string given, called in C:\OSPanel\OpenServer\domains\helper\system\Model.php on line 1818
+#0 C:\OSPanel\OpenServer\domains\helper\system\Model.php(1818): CodeIgniter\Database\BaseBuilder->get('new')
+#1 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(85): CodeIgniter\Model->__call('get', Array)
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-07-22 07:58:04 --> Call to a member function getResult() on null
+#0 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(82): App\Models\TicketModel->getTicketsByStatus('new')
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 07:58:20 --> Call to a member function getResult() on null
+#0 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(83): App\Models\TicketModel->getTicketsByStatus('new')
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 07:58:21 --> Call to a member function getResult() on null
+#0 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(83): App\Models\TicketModel->getTicketsByStatus('new')
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-07-22 08:03:55 --> Cannot use object of type stdClass as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(86): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 08:03:56 --> Cannot use object of type stdClass as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(86): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 08:04:01 --> Cannot use object of type stdClass as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(86): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 08:04:06 --> Cannot use object of type stdClass as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(86): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 08:04:09 --> Cannot use object of type stdClass as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(86): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 08:04:36 --> Cannot use object of type stdClass as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(86): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 08:04:37 --> Cannot use object of type stdClass as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(86): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 08:05:01 --> Cannot use object of type stdClass as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(86): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 08:05:10 --> Cannot use object of type stdClass as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(86): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 08:05:19 --> Cannot use object of type stdClass as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(86): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 08:05:25 --> Cannot use object of type stdClass as array
+#0 C:\OSPanel\OpenServer\domains\helper\system\View\View.php(246): include()
+#1 C:\OSPanel\OpenServer\domains\helper\system\Common.php(1119): CodeIgniter\View\View->render('ticket', Array, true)
+#2 C:\OSPanel\OpenServer\domains\helper\app\Controllers\Tickets.php(86): view('ticket', Array)
+#3 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus('new')
+#4 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#5 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-07-22 08:06:58 --> Class 'tickets' not found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-07-22 08:14:52 --> Too few arguments to function App\Controllers\Tickets::getByStatus(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:14:57 --> Too few arguments to function App\Controllers\Tickets::getByStatus(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:15:02 --> Too few arguments to function App\Controllers\Tickets::getByStatus(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:15:07 --> Too few arguments to function App\Controllers\Tickets::getByStatus(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->getByStatus()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:16:18 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:16:19 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:16:24 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:16:29 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:16:34 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:16:39 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:16:44 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:16:49 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:16:54 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:16:59 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:17:04 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:17:09 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:17:14 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:17:19 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:17:24 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:17:29 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:17:34 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:17:39 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:17:44 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:17:49 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:17:55 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:18:04 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:19:58 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-22 08:19:58 --> Too few arguments to function App\Controllers\Tickets::get(), 0 passed in C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(918): App\Controllers\Tickets->get()
+#1 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tickets))
+#2 C:\OSPanel\OpenServer\domains\helper\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\OSPanel\OpenServer\domains\helper\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
